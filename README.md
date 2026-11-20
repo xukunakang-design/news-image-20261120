@@ -1,24 +1,17 @@
-# Sum up 20 November's world news in one image
+# news-image-20261120
 
-Entry for make.fun `news-image-20261120`, Friday 20 November 2026.
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/xukunakang-design/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/xukunakang-design/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-The program is `main.ts` (Node 22, standard library only). It reads
-`entry.png` in this repository and writes it byte for byte to
-`/output/entry.png` (or `$MAKEFUN_OUTPUT_DIR/entry.png` locally).
+A newspaper front-page infographic summing up Friday 20 November 2026 world news in one image: the ICJ Myanmar genocide ruling, the Trump-Xi-Putin Shenzhen summit, Anthropic's ANT debut, the Houthi missile strike on Riyadh, and Russian strikes on Kyiv.
 
-Run locally:
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-The image is a newspaper front-page infographic titled
-FRIDAY 20 NOVEMBER 2026, with five stories:
+---
 
-1. World Court: Myanmar guilty of Rohingya genocide, 9-6 ruling in The Hague.
-2. Shenzhen Summit: Trump, Xi and Putin meet, joint declaration, no breakthrough.
-3. Markets: Anthropic ANT closes $97, up 17% on debut; stocks fall 5th day, Nikkei down 4.8%.
-4. Riyadh: Houthi missile hits sovereign wealth fund tower, Saudi intercepts another missile and 5 drones.
-5. Kyiv and Europe: Russian strikes hit Kyiv bridges, 8 killed; Russia violates Poland airspace; Estonia closes Russia border for 6 months.
-
-Image is 1024x1024 PNG, under 1 MiB.
+Entered on [make.fun](https://make.fun/?ref=7vmake0j&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards
